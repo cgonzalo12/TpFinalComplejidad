@@ -120,9 +120,23 @@ namespace tpfinal
 
             return collected;
         }
+
         public static List<Dato> reordenarList(List<Dato> lista)
         {
-            return lista.OrderByDescending(d => d.ocurrencia).ToList();
+            int n = lista.Count;
+            for (int i = 0; i < n - 1; i++)
+            {
+                for (int j = 0; j < n - i - 1; j++)
+                {
+                    if (lista[j].ocurrencia < lista[j + 1].ocurrencia)
+                    {
+                        Dato temp = lista[j];
+                        lista[j] = lista[j + 1];
+                        lista[j + 1] = temp;
+                    }
+                }
+            }
+            return lista;
         }
 
     }
