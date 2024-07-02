@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Facultad\\complejidad\\TPFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\capgo\\onedrive\\escritorio\\facultad\\complejidad\\tpfinal\\estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\capgo\\onedrive\\escritorio\\facultad\\complejidad\\tpfinal\\heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Estrategia.cs",
-              "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Facultad\\complejidad\\TPFinal\\Estrategia.cs",
-              "RelativeDocumentMoniker": "Estrategia.cs",
-              "ToolTip": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Facultad\\complejidad\\TPFinal\\Estrategia.cs",
-              "RelativeToolTip": "Estrategia.cs",
-              "ViewState": "AQIAAG0AAAAAAAAAAAAhwIMAAAAVAAAA",
+              "Title": "Heap.cs",
+              "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Facultad\\complejidad\\TPFinal\\Heap.cs",
+              "RelativeDocumentMoniker": "Heap.cs",
+              "ToolTip": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Facultad\\complejidad\\TPFinal\\Heap.cs",
+              "RelativeToolTip": "Heap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T23:00:45.119Z",
+              "WhenOpened": "2024-07-02T20:13:33.158Z",
               "EditorCaption": ""
             }
           ]
